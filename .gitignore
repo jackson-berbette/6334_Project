@@ -1,0 +1,11 @@
+# Large original datasets
+Data/sales_train_evaluation.csv.csv
+Data/sales_train_validation.csv
+Data/sell_prices.csv
+
+# Python-generated files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
